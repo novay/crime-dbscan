@@ -1,0 +1,5 @@
+.DS_Store
+DRAFT.md
+datasets/crimes-in-baltimore.csv
+datasets/filtered.csv
+datasets/shooting.csv
