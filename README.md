@@ -1,7 +1,6 @@
 # Bedah Paper
 
-## Case Study
-The GIS based Analysis Criminal Events using Analysing Crimes using Machine Learning technique
+### The GIS based Analysis Criminal Events using Analysing Crimes using Machine Learning technique
 
 Citation: 
 **Abbas F. Mohammed and Wadhah R. Baiee**
